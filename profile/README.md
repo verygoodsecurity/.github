@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://verygoodsecurity.com">
-       <img src="https://raw.githubusercontent.com/verygoodsecurity/.github/main/profile/vgs-logo.svg" alt="vgs-logo" width="50%">
+       <img src="https://images.ctfassets.net/e6d9jibdbc6c/44JUt8dXzYVof2qgivBrfW/3e2a7d1f8426d2421ab27ae9c3e9783f/vgs-fullwidth-color.svg" alt="vgs-logo" width="50%">
     </a>
     <br /><br />
     <h1 align="center">👋 Welcome to Very Good Security!<br /></h1>
